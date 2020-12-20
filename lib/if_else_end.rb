@@ -1,1 +1,5 @@
-# Write your solution here
+if TRUE
+  puts"even!"
+else
+  puts "odd!"
+end 
